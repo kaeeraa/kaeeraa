@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2024 - To: 29 August 2024
+From: 03 May 2024 - To: 31 August 2024
 
-Total Time: 101 hrs 3 mins
+Total Time: 105 hrs 57 mins
 
-Python                61 hrs 18 mins  >>>>>>>>>>>>>>>----------   60.65 %
-Nix                   12 hrs 29 mins  >>>----------------------   12.36 %
-HTML                  7 hrs 25 mins   >>-----------------------   07.34 %
-Nix file              3 hrs 39 mins   >------------------------   03.61 %
-Markdown              3 hrs 19 mins   >------------------------   03.29 %
-YAML                  2 hrs 45 mins   >------------------------   02.72 %
-GitIgnore file        1 hr 50 mins    -------------------------   01.82 %
-Text                  1 hr 27 mins    -------------------------   01.45 %
-TOML                  1 hr 20 mins    -------------------------   01.32 %
-JSON                  1 hr 15 mins    -------------------------   01.24 %
+Python                61 hrs 18 mins  >>>>>>>>>>>>>>-----------   57.84 %
+Nix                   14 hrs 2 mins   >>>----------------------   13.24 %
+HTML                  7 hrs 25 mins   >>-----------------------   07.00 %
+Nix file              4 hrs 25 mins   >------------------------   04.17 %
+Markdown              3 hrs 45 mins   >------------------------   03.54 %
+YAML                  3 hrs 8 mins    >------------------------   02.97 %
+GitIgnore file        1 hr 50 mins    -------------------------   01.74 %
+Text                  1 hr 37 mins    -------------------------   01.53 %
+C++                   1 hr 22 mins    -------------------------   01.29 %
+TOML                  1 hr 20 mins    -------------------------   01.26 %
 ```
 
 <!--END_SECTION:waka-->

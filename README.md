@@ -18,3 +18,5 @@ GitIgnore file        1 hr 50 mins    -------------------------   01.54 %
 ```
 
 <!--END_SECTION:waka-->
+
+[![Kaeeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaeeraa)](https://github.com/kaeeraa/github-readme-stats)

@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2024 - To: 11 November 2024
+From: 03 May 2024 - To: 12 November 2024
 
-Total Time: 142 hrs 40 mins
+Total Time: 143 hrs 9 mins
 
-Python                68 hrs 29 mins  >>>>>>>>>>>>-------------   47.13 %
-Nix                   20 hrs 38 mins  >>>>---------------------   14.20 %
-C++                   8 hrs 36 mins   >------------------------   05.93 %
-HTML                  7 hrs 25 mins   >------------------------   05.11 %
-Markdown              6 hrs 1 min     >------------------------   04.15 %
-Nix file              4 hrs 26 mins   >------------------------   03.05 %
+Python                68 hrs 29 mins  >>>>>>>>>>>>-------------   46.98 %
+Nix                   20 hrs 38 mins  >>>>---------------------   14.15 %
+C++                   8 hrs 36 mins   >------------------------   05.91 %
+HTML                  7 hrs 25 mins   >------------------------   05.09 %
+Markdown              6 hrs 1 min     >------------------------   04.14 %
+Nix file              4 hrs 26 mins   >------------------------   03.04 %
 Other                 2 hrs 38 mins   -------------------------   01.81 %
 ```
 

@@ -3,17 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2024 - To: 04 December 2024
+From: 03 May 2024 - To: 05 December 2024
 
-Total Time: 159 hrs 6 mins
+Total Time: 165 hrs 19 mins
 
-Python                69 hrs          >>>>>>>>>>>--------------   42.64 %
-Nix                   21 hrs 4 mins   >>>----------------------   13.02 %
-C++                   10 hrs 8 mins   >>-----------------------   06.27 %
-HTML                  7 hrs 25 mins   >------------------------   04.58 %
-Markdown              6 hrs 15 mins   >------------------------   03.86 %
-Nix file              4 hrs 26 mins   >------------------------   02.74 %
-XML                   2 hrs 45 mins   -------------------------   01.70 %
+Python                69 hrs          >>>>>>>>>>---------------   41.05 %
+Nix                   21 hrs 4 mins   >>>----------------------   12.54 %
+C++                   10 hrs 8 mins   >>-----------------------   06.03 %
+HTML                  7 hrs 25 mins   >------------------------   04.41 %
+Markdown              6 hrs 15 mins   >------------------------   03.72 %
+Java                  5 hrs 40 mins   >------------------------   03.37 %
+Nix file              4 hrs 26 mins   >------------------------   02.64 %
+XML                   3 hrs 24 mins   >------------------------   02.03 %
 ```
 
 <!--END_SECTION:waka-->

@@ -19,4 +19,4 @@ XML                   3 hrs 26 mins   >------------------------   02.00 %
 
 <!--END_SECTION:waka-->
 
-[![Kaeeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaeeraa)](https://github.com/kaeeraa/github-readme-stats)
+[![Kaeeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaeeraa)](https://github.com/kaeeraa/github-readme-stats&theme=rose-pine)

@@ -1,22 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--START_SECTION:waka-->
+# Hello! I'm Kaeeraa 👋
 
-```txt
-From: 03 May 2024 - To: 11 December 2024
+Welcome to my GitHub corner! 🚀 Here, I share my experiences and projects in the world of programming, along with my expertise in NixOS and software development.
 
-Total Time: 170 hrs 35 mins
+## 🧑‍💻 About Me
+</div>
 
-Python                69 hrs          >>>>>>>>>>---------------   39.80 %
-Nix                   21 hrs 4 mins   >>>----------------------   12.16 %
-Java                  10 hrs 26 mins  >>-----------------------   06.03 %
-C++                   10 hrs 8 mins   >------------------------   05.85 %
-HTML                  7 hrs 25 mins   >------------------------   04.28 %
-Markdown              6 hrs 15 mins   >------------------------   03.61 %
-Nix file              4 hrs 26 mins   >------------------------   02.56 %
-XML                   3 hrs 26 mins   -------------------------   01.99 %
-```
+- 💻 I work as a programmer and love writing clean, readable code.
+- 🛠 No snake_case! Only kebab-case, PascalCase and camelCase
+- 🐧 A dedicated **NixOS** user — I value minimalism, stability, and control.
+- 🎯 In my free time, I work on personal projects like **AyuGram**.
+  
+<div align="center">
 
-<!--END_SECTION:waka-->
+## 📂 My Projects
 
-[![Kaeeraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaeeraa)](https://github.com/kaeeraa/github-readme-stats&theme=rose-pine)
+<div>
+  
+### **AyuGram (NixOS packaged)**
+
+A Telegram Desktop client with TOS breaking features
+
+<br>
+
+ **Stack:** Nix, Linux
+ 
+ **Features:** Adaptation for the NixOS environment.
+
+<kbd> <br> [View Repository](https://github.com/ndfined-crp/ayugram-desktop) <br><br></kbd>
+
+</div>
+<br><br>
+<div>
+  
+### **Matter**
+
+A brand new discord bot with ticket system.
+
+<br>
+
+  **Stack:** Python, Discord API, JSON5, Poetry
+
+  **Features:** *Coming soon*
+
+   <kbd> <br> [View Repository](https://github.com/kaeeraa/Matter)<br><br></kbd>
+</div>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaeeraa&show_icons=true&theme=radical" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeeraa&layout=compact&theme=radical" width="30%">
+</p>
+
+---
+
+_"May your ~woes be many~ code be clean and your ~days few~ systems stable!"_ ✨
+</div>

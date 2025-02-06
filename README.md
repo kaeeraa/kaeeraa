@@ -46,6 +46,21 @@ A brand new discord bot with ticket system.
 
    <kbd> <br> [View Repository](https://github.com/kaeeraa/Matter)<br><br></kbd>
 </div>
+<br><br>
+<div>
+  
+### **FreesmLauncher**
+
+Modern launcher for modern minecraft.
+PrismLauncher fork.
+
+<br>
+
+  **Stack:** C++, CMake, Docker, Github Actions
+
+  **Features:** Offline accounts, animated catpacks and much more...
+
+   <kbd> <br> [View Repository](https://github.com/FreesmTeam/FreesmLauncher)<br><br></kbd>
 
 
 

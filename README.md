@@ -11,8 +11,11 @@ Welcome to my GitHub corner! 🚀 Here, I share my experiences and projects in t
 - 🛠 No snake_case! Only kebab-case, PascalCase and camelCase
 - 🐧 A dedicated **NixOS** user — I value minimalism, stability, and control.
 - 🎯 In my free time, I work on personal projects like **FreesmLauncher** or **Kaede**.
-  
+
 <div align="center">
+
+## 🏅 My Certs/Rewards
+- [EFSet Certificate](https://cert.efset.org/ru/V3qxDt)
 
 ## 📂 My Projects
 
